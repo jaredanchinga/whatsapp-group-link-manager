@@ -1,35 +1,35 @@
-# WhatsApp Group Link Manager
+# WhatsHarvest
 
 ## Description
 
-WhatsApp Group Link Manager is a Chrome extension that helps you collect, verify, and manage WhatsApp group invite links. It automatically detects WhatsApp group links on web pages, verifies them, and stores them for easy access and management.
+WhatsHarvest is a powerful Chrome extension designed to simplify the collection and management of WhatsApp group invite links. It automatically detects, verifies, and organizes WhatsApp group links from any web page you visit, making it easier than ever to keep track of interesting groups.
 
 ## Features
 
-- Automatically detects and extracts WhatsApp group invite links from web pages
-- Verifies the validity of extracted links
-- Stores links with group names and timestamps
-- Prevents duplicate links
-- Provides a popup interface for quick access to stored links
-- Offers a full-page dashboard for comprehensive link management
-- Allows exporting links to CSV format
-- Includes a feature to clear all stored links
+1. Automatic Detection: Scans web pages for WhatsApp group invite links
+2. Link Verification: Ensures all harvested links are valid
+3. Smart Storage: Saves links with group names and timestamps
+4. Duplicate Prevention: Avoids storing the same link twice
+5. Quick Access Popup: Instantly view your collected links
+6. Full Dashboard: Comprehensive link management interface
+7. Export Functionality: Save your links as a CSV file
+8. Clean Slate Option: Clear all stored links when needed
 
 ## Installation
 
 1. Clone this repository or download the ZIP file and extract it.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" in the top right corner.
-4. Click "Load unpacked" and select the directory containing the extension files.
+4. Click "Load unpacked" and select the directory containing the WhatsHarvest files.
 
 ## Usage
 
-1. Once installed, you'll see the extension icon in your Chrome toolbar.
-2. Browse websites containing WhatsApp group links. The extension will automatically detect and store valid links.
-3. Click on the extension icon to view the popup with your collected links.
-4. Use the "Open Full Page" button for a more detailed view and management options.
-5. Export your links to CSV using the "Save as CSV" button.
-6. Clear all stored links using the "Clear Links" button.
+1. After installation, look for the WhatsHarvest icon in your Chrome toolbar.
+2. Browse the web as usual. WhatsHarvest will automatically detect and store valid WhatsApp group links.
+3. Click the WhatsHarvest icon to view your collected links in a popup.
+4. For more options, use the "Open Full Page" button to access the comprehensive dashboard.
+5. Export your harvested links to CSV using the "Save as CSV" button.
+6. To start fresh, use the "Clear Links" button to remove all stored links.
 
 ## Files
 
@@ -41,14 +41,14 @@ WhatsApp Group Link Manager is a Chrome extension that helps you collect, verify
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Got ideas to make WhatsHarvest even better? Contributions are welcome! Feel free to submit a Pull Request.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+WhatsHarvest is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
 Jared Anchinga - [GitHub Profile](https://github.com/jaredanchinga)
 
-Project Link: [https://github.com/jaredanchinga/whatsapp-group-link-manager](https://github.com/jaredanchinga/whatsapp-group-link-manager)
+Project Link: [https://github.com/jaredanchinga/whatsharvest](https://github.com/jaredanchinga/whatsharvest)
